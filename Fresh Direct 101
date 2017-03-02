@@ -1,0 +1,38 @@
+Fresh Direct 101
+2/24/17
+
+Purchases:
+All orders are sent from Nicole to Rae who creates the following:
+1.	COLA if needed
+2.	Item Code
+3.	Price Posting based on a 1.15 exchange rate
+4.	Sales Order 
+5.	Purchase Order
+
+Receiving Orders at FDL:
+Once FDL receives in the inventory the following is created:
+1.	Rae creates the invoice from the sales order
+2.	Adds in the admin charge classified as FD-LIC 
+3.	Sends the wine invoice and the freight invoice to Nicole and Fresh Direct AP 
+4.	Closes the original sales order and adds the item to SO17577. This SO is fulfilled with each order much like a bill and hold. We do this to avoid confusion at FDL – fulfilling each item on independent SO they assume they are separate orders and therefore volume discounts were not given
+
+Depletion of Inventory:
+Fresh Direct requests deliveries to their warehouse a few times a week. Ann and Nicole send the official PO to Rae.
+1.	Rae fulfills the SO and references FD PO number on it 
+2.	Sends to FDL for delivery
+
+Weekly Reporting:
+Fresh Direct does not like the Axis report so we created a new report for them. 
+1.	Every Monday they receive Fresh Direct Weekly Statues Update – Importing
+2.	Every Friday they receive Rae’s spreadsheet of their AP. 
+
+Billing:
+Fresh Direct is billed off the following rules:
+1.	.34/case for storage billed to Fresh Direct
+2.	.10/case billed to FDL and taken off their bill (they are splitting cost with us)
+3.	Deliveries to Fresh Direct get volume discounts 
+4.	If they receive a Monday delivery over 100 cases they receive an additional .50/case discount on top of normal discounts
+5.	No monthly Admin billing as they are billed admin on wine inbounding to FDL
+6.	All taxes are billed back normal
+7.	They want all billing broken out for them by SKU each month and that is why Rae sends to them (see attached example)
+
