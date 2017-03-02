@@ -1,0 +1,65 @@
+Internal ID,Rep,Date,Document Number,Customer ID,Item ID,Credit Description,Price,Quantity in Transaction Units,Customer PO#,Partner PO#,Warehouse,Credit Memo,Credit Amount,Status,Status,Status,Status,Import Result
+1082086,Eric Clemons,1/3/17,CM12447,9127,172236,Da Mar Prosecco 12x750ml NV,100,-5,,,Fond du Lac,Credit Memo,-500,Credit Memo,,,,SUCCESS: Updated order.
+1082199,Eric Clemons,1/3/17,CM12453,7189,248,Bottle Credit,105.882,-0.17,,,N/A,Credit Memo,-18,Credit Memo,,,,SUCCESS: Updated order.
+1082199,Eric Clemons,1/3/17,CM12453,7189,248,Bottle Credit,105.882,-0.17,,,N/A,Credit Memo,-18,Credit Memo,,,,SUCCESS: Updated order.
+1082199,Eric Clemons,1/3/17,CM12453,7189,248,Bottle Credit,105.882,-0.17,,,N/A,Credit Memo,-18,Credit Memo,,,,SUCCESS: Updated order.
+1082199,Eric Clemons,1/3/17,CM12453,7189,248,Bottle Credit,105.882,-0.17,,,N/A,Credit Memo,-18,Credit Memo,,,,SUCCESS: Updated order.
+1082202,John McCarroll,1/3/17,CM12454,868,248,Bottle Credit,204.125,-0.08,,,N/A,Credit Memo,-16.33,Credit Memo,,,,SUCCESS: Updated order.
+1082433,John McCarroll,1/3/17,CM12458,17772,248,Bottle Credit,158.375,-0.08,,,N/A,Credit Memo,-12.67,Credit Memo,,,,SUCCESS: Updated order.
+1085310,Eric Clemons,1/4/17,CM12505,10009,248,Bottle Credit,156,-1,,,N/A,Credit Memo,-156,Credit Memo,,,,SUCCESS: Updated order.
+1086473,John McCarroll,1/5/17,CM12510,2260,248,Bottle Credit,125,-0.08,,,N/A,Credit Memo,-10,Credit Memo,,,,SUCCESS: Updated order.
+1094926,Eric Clemons,1/9/17,CM12558,13977,172236,Da Mar Prosecco 12x750ml NV,100,-6,,,Fond du Lac,Credit Memo,-600,Canceled,,,,SUCCESS: Updated order.
+1095145,Mariel Goddu,1/9/17,CM12559,10202,248,Bottle Credit,180,-1,,,N/A,Credit Memo,-180,Credit Memo,,,,SUCCESS: Updated order.
+1095714,Eric Clemons,1/9/17,CM12569,9189,172236,Da Mar Prosecco 12x750ml NV,100,-5,,,Fond du Lac,Credit Memo,-500,Canceled,,,,SUCCESS: Updated order.
+1096381,Eric Clemons,1/10/17,CM12578,8889,644118,Paul Nicolle Chablis 2015,212,-2,,,Fond du Lac,Credit Memo,-424,Credit Memo,,,,SUCCESS: Updated order.
+1101001,Mariel Goddu,1/11/17,CM12605,1460,248,Bottle Credit,125,-0.08,,,N/A,Credit Memo,-10,Credit Memo,,,,SUCCESS: Updated order.
+1101001,Mariel Goddu,1/11/17,CM12605,1460,248,Bottle Credit,125,-0.08,,,N/A,Credit Memo,-10,Credit Memo,,,,SUCCESS: Updated order.
+1101001,Mariel Goddu,1/11/17,CM12605,1460,248,Bottle Credit,125,-0.08,,,N/A,Credit Memo,-10,Credit Memo,,,,SUCCESS: Updated order.
+1103837,Jeff Hansen,1/12/17,CM12611,1488,248,Bottle Credit,112.5,-0.08,,,N/A,Credit Memo,-9,Credit Memo,,,,SUCCESS: Updated order.
+1103837,Jeff Hansen,1/12/17,CM12611,1488,248,Bottle Credit,112.5,-0.08,,,N/A,Credit Memo,-9,Credit Memo,,,,SUCCESS: Updated order.
+1110653,Eric Clemons,1/16/17,CM12636,17853,248,Bottle Credit,250,-0.08,,,N/A,Credit Memo,-20,Credit Memo,,,,SUCCESS: Updated order.
+1110656,Mariel Goddu,1/16/17,CM12637,13063,248,Bottle Credit,125,-0.08,,,N/A,Credit Memo,-10,Credit Memo,,,,SUCCESS: Updated order.
+1119457,Mariel Goddu,1/18/17,CM12671,18784,172132,Gutierrez Colosia Fino Amerigo 12x375ml,132,-1,,,Fond du Lac,Credit Memo,-132,Canceled,,,,SUCCESS: Updated order.
+1119457,Mariel Goddu,1/18/17,CM12671,18784,172132,Gutierrez Colosia Fino Amerigo 12x375ml,132,-1,,,Fond du Lac,Credit Memo,-132,Canceled,,,,SUCCESS: Updated order.
+1126254,John McCarroll,1/20/17,CM12705,1719,248,Bottle Credit,83.375,-0.08,,,N/A,Credit Memo,-6.67,Credit Memo,,,,SUCCESS: Updated order.
+1126254,John McCarroll,1/20/17,CM12705,1719,248,Bottle Credit,83.375,-0.08,,,N/A,Credit Memo,-6.67,Credit Memo,,,,SUCCESS: Updated order.
+1126254,John McCarroll,1/20/17,CM12705,1719,248,Bottle Credit,83.375,-0.08,,,N/A,Credit Memo,-6.67,Credit Memo,,,,SUCCESS: Updated order.
+1126254,John McCarroll,1/20/17,CM12705,1719,248,Bottle Credit,83.375,-0.08,,,N/A,Credit Memo,-6.67,Credit Memo,,,,SUCCESS: Updated order.
+1129781,Eric Clemons,1/24/17,CM12738,7202,1019621,Carballal Albarino Sete Cepas Rias Baixas 2015 - DAMAGED,120,-5.42,,,Fond du Lac,Credit Memo,-650.4,Credit Memo,,,,SUCCESS: Updated order.
+1130108,Mariel Goddu,1/24/17,CM12740,19541,178110,Keuka Lake Vineyards Dry Riesling Estate Finger Lakes 2014,168,-1,,,Fond du Lac,Credit Memo,-168,Credit Memo,,,,SUCCESS: Updated order.
+1133629,Mariel Goddu,1/25/17,CM12771,4374,248,Bottle Credit,13.33,-1,,,N/A,Credit Memo,-13.33,Credit Memo,,,,SUCCESS: Updated order.
+1138045,Jeff Hansen,1/26/17,CM12780,1488,460568,Agostino Pavia Barbera d'Asti Casareggio 2015,108,-9.92,,,Fond du Lac,Credit Memo,-1071.36,Canceled,,,,SUCCESS: Updated order.
+1142101,John McCarroll,1/30/17,CM12804,12350,248,Bottle Credit,250,-0.08,,,N/A,Credit Memo,-20,Credit Memo,,,,SUCCESS: Updated order.
+1152349,John McCarroll,2/1/17,CM12849,8650,148078,Mata i Coloma Cava Reserva Brut Nature 'Cupada' NV,168,-1,,,Fond du Lac,Credit Memo,-168,Canceled,,,,SUCCESS: Updated order.
+1152571,John Livingston,2/1/17,CM12852,1842,307045,Aurelien Chatagnier Saint Joseph Rouge 2014,264,-1,217529,,Fond du Lac,Credit Memo,-264,Canceled,,,,SUCCESS: Updated order.
+1152571,John Livingston,2/1/17,CM12852,1842,307045,Aurelien Chatagnier Saint Joseph Rouge 2014,264,-1,217529,,Fond du Lac,Credit Memo,-264,Canceled,,,,SUCCESS: Updated order.
+1152571,John Livingston,2/1/17,CM12852,1842,307045,Aurelien Chatagnier Saint Joseph Rouge 2014,264,-1,217529,,Fond du Lac,Credit Memo,-264,Canceled,,,,SUCCESS: Updated order.
+1153688,John Livingston,2/2/17,CM12877,8445,248,Bottle Credit,792,-1,55941830,,Fond du Lac,Credit Memo,-792,Credit Memo,,,,SUCCESS: Updated order.
+1158300,Eric Clemons,2/3/17,CM12901,9127,248,Bottle Credit,166.625,-0.08,,,N/A,Credit Memo,-13.33,Credit Memo,,,,SUCCESS: Updated order.
+1158690,John McCarroll,2/3/17,CM12906,12350,460868,Aurelien Chatagnier Saint Joseph Blanc N. Rhone 2015,238.095,-0.42,,,Fond du Lac,Credit Memo,-100,Credit Memo,,,,SUCCESS: Updated order.
+1167134,Jeff Hansen,2/7/17,CM12962,15391,453,Miscellaneous,30,-1,,,Fond du Lac,Credit Memo,-30,Credit Memo,,,,SUCCESS: Updated order.
+1168321,Mariel Goddu,2/8/17,CM12968,1453,738260,"Manoir du Kinkiz, AOP Cornouaille",136,-2,,,Fond du Lac,Credit Memo,-272,Canceled,,,,SUCCESS: Updated order.
+1174025,Mariel Goddu,2/9/17,CM12996,3128,248,Bottle Credit,362.5,-0.08,,,N/A,Credit Memo,-29,Credit Memo,,,,SUCCESS: Updated order.
+1174025,Mariel Goddu,2/9/17,CM12996,3128,248,Bottle Credit,362.5,-0.08,,,N/A,Credit Memo,-29,Credit Memo,,,,SUCCESS: Updated order.
+1174025,Mariel Goddu,2/9/17,CM12996,3128,248,Bottle Credit,362.5,-0.08,,,N/A,Credit Memo,-29,Credit Memo,,,,SUCCESS: Updated order.
+1174025,Mariel Goddu,2/9/17,CM12996,3128,248,Bottle Credit,362.5,-0.08,,,N/A,Credit Memo,-29,Credit Memo,,,,SUCCESS: Updated order.
+1174134,John McCarroll,2/9/17,CM12997,10140,248,Bottle Credit,208.375,-0.08,,,N/A,Credit Memo,-16.67,Credit Memo,,,,SUCCESS: Updated order.
+1174134,John McCarroll,2/9/17,CM12997,10140,248,Bottle Credit,208.375,-0.08,,,N/A,Credit Memo,-16.67,Credit Memo,,,,SUCCESS: Updated order.
+1174134,John McCarroll,2/9/17,CM12997,10140,248,Bottle Credit,208.375,-0.08,,,N/A,Credit Memo,-16.67,Credit Memo,,,,SUCCESS: Updated order.
+1176205,Jeff Hansen,2/10/17,CM13001,1639,461868,Mata I Coloma Cava Cupada Rosado NV,156,-3,,,Fond du Lac,Credit Memo,-468,Canceled,,,,SUCCESS: Updated order.
+1176314,Mariel Goddu,2/10/17,CM13004,18784,1035,Bank Service Charges,25,-1,,,N/A,Credit Memo,-25,Credit Memo,,,,SUCCESS: Updated order.
+1185981,John McCarroll,2/14/17,CM13098,20026,248,Bottle Credit,108.375,-0.08,,,N/A,Credit Memo,-8.67,Credit Memo,,,,SUCCESS: Updated order.
+1185981,John McCarroll,2/14/17,CM13098,20026,248,Bottle Credit,108.375,-0.08,,,N/A,Credit Memo,-8.67,Credit Memo,,,,SUCCESS: Updated order.
+1185981,John McCarroll,2/14/17,CM13098,20026,248,Bottle Credit,108.375,-0.08,,,N/A,Credit Memo,-8.67,Credit Memo,,,,SUCCESS: Updated order.
+1186388,Jeff Hansen,2/14/17,CM13105,1465,148078,Mata i Coloma Cava Reserva Brut Nature 'Cupada' NV,156,-3,,,Fond du Lac,Credit Memo,-468,Credit Memo,,,,SUCCESS: Updated order.
+1186392,Eric Clemons,2/14/17,CM13106,9236,91744,Gutierrez Colosia Oloroso,212,-1,,,Fond du Lac,Credit Memo,-212,Credit Memo,,,,SUCCESS: Updated order.
+1186392,Eric Clemons,2/14/17,CM13106,9236,91744,Gutierrez Colosia Oloroso,212,-1,,,Fond du Lac,Credit Memo,-212,Credit Memo,,,,SUCCESS: Updated order.
+1192998,Jeff Hansen,2/16/17,CM13131,1639,161088,Estelle Sauvion Muscadet de Sevre et Maine 2014,119.835,-2.42,,,Fond du Lac,Credit Memo,-290,Credit Memo,,,,SUCCESS: Updated order.
+1200508,Jeff Hansen,2/21/17,CM13144,11091,508556,Chateau du Mayne Graves Rouge 2013,180,-1,,,Fond du Lac,Credit Memo,-180,Canceled,,,,SUCCESS: Created order.
+1200509,Jeff Hansen,2/21/17,CM13145,11091,925827,Keuka Lake Vineyards Cabernet Franc Finger Lakes 2015,200,-1,,,Fond du Lac,Credit Memo,-200,Canceled,,,,SUCCESS: Created order.
+1205391,Jeff Hansen,2/22/17,CM13170,1639,161088,Estelle Sauvion Muscadet de Sevre et Maine 2014,119.403,-0.67,,,Fond du Lac,Credit Memo,-80,Credit Memo,,,,SUCCESS: Created order.
+1211891,Thomas Crowley,2/23/17,CM13197,8132,444702,Les Deux Moulins Sauvignon Blanc Loire 2015,104,-1,,,Fond du Lac,Credit Memo,-104,Canceled,,,,SUCCESS: Created order.
+1214824,Coeur Wine Co,2/24/17,CM13212,35,161088,Estelle Sauvion Muscadet de Sevre et Maine 2014,97.2,-0.5,,,Fond du Lac,Credit Memo,-48.6,Credit Memo,,,,SUCCESS: Created order.
+1215439,John McCarroll,2/24/17,CM13215,13338,687783,Bodegas Inteus Rioja Joven 2015,136,-1,,,Fond du Lac,Credit Memo,-136,Canceled,,,,SUCCESS: Created order.
+1215439,John McCarroll,2/24/17,CM13215,13338,687783,Bodegas Inteus Rioja Joven 2015,136,-1,,,Fond du Lac,Credit Memo,-136,Canceled,,,,SUCCESS: Updated order.
+1215439,John McCarroll,2/24/17,CM13215,13338,687783,Bodegas Inteus Rioja Joven 2015,136,-1,,,Fond du Lac,Credit Memo,-136,Canceled,,,,SUCCESS: Updated order.
